@@ -5,3 +5,4 @@ Objetivo: praticar branches, push e resolucao de conflitos.
 
 ## Operacoes disponiveis
 - Soma
+- Subtracao
